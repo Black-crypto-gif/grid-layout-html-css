@@ -49,6 +49,7 @@ body {
     object-fit: cover;
     border-radius: 1rem;
     padding: 1rem;
+    overflow: hidden;
 }
 
 .card-content {
